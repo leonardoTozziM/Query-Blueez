@@ -36,3 +36,5 @@ WHERE
     ) 
     AND ged_arquivos.pai = 20722
 GROUP BY ged_arquivos.id;   
+
+--alou
