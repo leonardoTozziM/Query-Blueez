@@ -29,17 +29,7 @@ blueez-queries/
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 1. Clonar Repositório
-echo "# Query-Blueez" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/LuanVitorio/Query-Blueez.git
-git push -u origin main
-… ou envie um repositório existente a partir da linha de comando
-git remote add origin https://github.com/LuanVitorio/Query-Blueez.git
-git branch -M main
-git push -u origin main
+https://github.com/LuanVitorio/Query-Blueez.git
 
 ## Licença
 
